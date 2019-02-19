@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 Update to stay on thw working area (dirty)
 
 ## How to contribute
+
+### Copyright
