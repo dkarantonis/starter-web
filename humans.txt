@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dimitris Karantonis dkarantonis@gmail.com
 
 # THANKS
 
