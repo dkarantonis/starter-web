@@ -12,4 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Update to stay on thw working area (dirty)
+
 ## How to contribute
