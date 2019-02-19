@@ -16,4 +16,6 @@ Update to stay on thw working area (dirty)
 
 ## How to contribute
 
+Please fork this repository
+
 ### Copyright
