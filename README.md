@@ -20,3 +20,5 @@ Update to stay on thw working area (dirty)
 Please fork this repository
 
 ### Copyright
+
+All rights reserved
